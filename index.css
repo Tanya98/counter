@@ -1,0 +1,18 @@
+.count {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.but {
+    border: 0;
+    border-radius: 5px;
+    width: 70px;
+    height: 40px;
+    color: white;
+    background: black;
+    cursor: pointer;
+}
+
+.but:focus {
+    outline: none;
+}
